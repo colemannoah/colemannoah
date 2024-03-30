@@ -1,3 +1,3 @@
 - 🌵 software engineer
 - 💻 ucd cs 2025
-- ⚙️ incoming SWE @ SIG
+- ⚙️ SWE @ SIG
