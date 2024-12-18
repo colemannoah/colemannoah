@@ -1,3 +1,2 @@
-- 🌵 software engineer
+- ⚙️ quantitative software engineer @ susquehanna
 - 💻 ucd cs 2025
-- ⚙️ SWE @ SIG
